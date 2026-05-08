@@ -1,4 +1,4 @@
-# opencode-subagent-statusline
+# opencode-subagent-statusline [ Cortesia de JOAQUIN! ]
 
 ![Subagents Monitor banner](https://raw.githubusercontent.com/Joaquinvesapa/sub-agent-statusline/main/assets/subagents_monitor_banner.webp)
 
